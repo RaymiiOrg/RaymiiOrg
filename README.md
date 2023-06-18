@@ -10,3 +10,5 @@ Nice pictures:
 
 ![](https://github-readme-stats.vercel.app/api?username=RaymiiOrg&show_icons=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raymiiorg)
+
